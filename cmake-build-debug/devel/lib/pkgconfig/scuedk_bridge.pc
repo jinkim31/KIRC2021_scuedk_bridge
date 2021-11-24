@@ -1,0 +1,8 @@
+prefix=/home/robit/catkin_ws/src/scuedk_bridge/cmake-build-debug/devel
+
+Name: scuedk_bridge
+Description: Description of scuedk_bridge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs tf

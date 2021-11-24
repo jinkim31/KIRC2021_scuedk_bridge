@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/robit/catkin_ws/src/scuedk_bridge/cmake-build-debug/devel/setup.sh
