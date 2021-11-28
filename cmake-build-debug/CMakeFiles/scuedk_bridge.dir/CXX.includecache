@@ -46,6 +46,12 @@ sensor_msgs/JointState.h
 tf/transform_broadcaster.h
 -
 
+/home/robit/catkin_ws/src/scuedk_bridge/src/main.cpp
+iostream
+-
+Node.h
+/home/robit/catkin_ws/src/scuedk_bridge/src/Node.h
+
 /opt/ros/melodic/include/geometry_msgs/Point.h
 string
 -
